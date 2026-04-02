@@ -1,6 +1,6 @@
 # Headphone-Amplifier-project
 ## Overview
-This project presents the design and implementation of a headphone amplifier using an op-amp for voltage amplification and a Class-AB Sziklai output stage for current drive.
+This project presents the design and implementation of a single-supply headphone amplifier using an op-amp for voltage amplification and a Class-AB Sziklai output stage for current drive. The audio input is provided through an AUX cable, processed through the amplification stages, and the output is delivered to low-impedance earphones.
 
 ## Features
 - 20 dB voltage gain
