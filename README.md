@@ -21,8 +21,10 @@ This project presents the design and implementation of a headphone amplifier usi
 - Gain ≈ 20 dB
 - Frequency range: 20 Hz – 20 kHz
 - Clean waveform with low distortion
+- [Headphone_Amplifier_result.mp3](https://github.com/user-attachments/files/26441059/Headphone_Amplifier_result.mp3)
 
 ## Key Concepts
+
 - Class AB Operation
 - VBE Multiplier
 - Sziklai Pair
